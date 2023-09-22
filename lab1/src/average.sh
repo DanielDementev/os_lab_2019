@@ -8,4 +8,4 @@ done
 avrg=$(($sum/$len))
 echo $sum
 echo $avrg
-echo $#
+
